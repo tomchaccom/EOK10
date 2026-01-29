@@ -1,0 +1,6 @@
+{
+    "name": "@eok10/agents",
+    "private": true,
+    "version": "0.0.0",
+    "description": "Agent orchestration package (stub)"
+  }
