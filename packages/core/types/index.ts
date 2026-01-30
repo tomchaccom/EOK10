@@ -19,3 +19,4 @@ export interface Task {
   offloadDecision: OffloadDecision;
   actions?: Action[];
 }
+// 주석 추가하기 
